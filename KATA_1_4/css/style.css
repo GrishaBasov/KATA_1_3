@@ -61,11 +61,8 @@ button {
 }
 
 body {
-    box-sizing: border-box;
     width:320px;
-    height:auto;
     box-shadow: 10px 0 5px -5px rgba(0, 0, 0, .5);
-
 }
 
 .main-menu {
@@ -90,7 +87,7 @@ body {
     background-color:#41F6D7;
     border-radius:0 20px 20px 0;
     left: 0;
-    top: 102px;
+    top: 103px;
 
 }
 
@@ -125,6 +122,7 @@ body {
 body {
     margin:0;
     padding:0;
+
 }
 
 .footer {
