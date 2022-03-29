@@ -85,7 +85,7 @@ body {
 
 .main-menu {
     width:320px;
-    height: calc(100vh - 78px);
+    height: calc(100vh - 78px - 230px);
     box-sizing: border-box;
 }
 
@@ -227,10 +227,10 @@ body {
 }
 
 .footer {
+    padding-top: 20px;
     width:320px;
     height:230px;
     box-sizing: border-box;
-
 
 }
 
@@ -276,9 +276,6 @@ body {
     transform: scale(110%);
     transition-duration:0.1s;
     transform-origin: center;
-
-
-
 }
 
 .footer-phone-number{
